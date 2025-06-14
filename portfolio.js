@@ -1,3 +1,5 @@
+// commit for rebuild
+
 console.log("portfolio.js attivo su GitHub Pages");
 
 import * as THREE from 'https://unpkg.com/three@0.160.0/build/three.module.js';
